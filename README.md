@@ -1,5 +1,6 @@
 # Airbnb Data Visualization 
-This repository showcases data visualization techniques using Tableau. 
+This repository showcases data visualization techniques using [Tableau](https://public.tableau.com/app/profile/christina.thomas8139/viz/AirBnbProject_16939502764760/Dashboard1#1)
+
 ## Introduction 
 For this project, I utilized data to understand revenue optimization of AirBnb rentals in the Seattle, WA area. 
 
@@ -82,8 +83,15 @@ Here we can see the count of rental listings by number of bedrooms. As we can se
 
 ### Dashboard 
 
-We can put everything together in a dashboard to allow for easy presentation to stakeholders. 
+We can put everything together in a dashboard to make data driven decisions and tell a story with data! 
 
+![Dashboard 1](https://github.com/Cthomas3067/Portfolio/assets/144178514/77601c12-9c17-452a-9d44-0b63e733fe79)
 
+## Act 
 
+We can now make recommendations based on our data. 
+1. According to our data analysis, rental properties within the 98134 zipcode exhibit the highest average rental rates in comparison to properties located in other zipcodes. To enhance revenue optimization, it would be strategically advantageous to consider property acquisition within the 98134 zipcode.
 
+2. When considering seasonal rental strategies for residential properties, our analysis indicates that the optimal months for listing a property for rent are June, July, August, November, and December.
+
+3. Our findings demonstrate that larger rental properties, characterized by an increased number of bedrooms, command higher average rental rates when contrasted with smaller rental units. As such, investing in a larger rental property may offer a more favorable return on investment (ROI), further augmented by reduced competition within the market segment of properties with multiple bedrooms.
